@@ -1,0 +1,30 @@
+body {
+  background-color: #f1f2f6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 78px;
+  color: #f36e39;
+  font-style: normal;
+}
+
+.header p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  left: 230px;
+  top: 251px;
+}
+
+.card {
+  width: 445px;
+  height: 317px;
+  left: 765px;
+  top: 161px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
